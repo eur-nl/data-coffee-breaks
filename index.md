@@ -1,4 +1,4 @@
-## ESSB Data Coffee Breaks
+## EUR Data Coffee Breaks
 
 ### How do the Breaks work?
 The EUR Data Coffee Breaks are monthly online presentations around research data management. The meetings are short, focused, and informal. Every meeting one topic will be discussed. The same presentation will be held twice a month, so that many EUR researchers can join one of the monthly sessions.
