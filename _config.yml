@@ -1,0 +1,10 @@
+theme: jekyll-theme-minimal
+description: Calendar and resources for the EUR Data Coffee Breaks at Erasmus University Rotterdam
+#logo: /assets/img/ESSB_datacoffeebreaks_logo.jpg
+
+author:
+  name:           'Eduard Klapwijk, ESSB Research Data Steward'
+  url:            https://twitter.com/eduardklap
+  
+  github:
+  repo:           https://github.com/eur-nl/data-coffee-breaks
