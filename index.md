@@ -6,7 +6,7 @@ We start the meetings with a 10-15 minutes presentation, followed by 15 minutes 
 Nothing more than a 30 minute coffee break! But please bring your own coffee, tea and cookies.
 
 ### What topics will be covered?
-Most topics will be presented by one of the Research Data Stewards, but if needed guests will be invited for more specialized topics. Please contact Eduard for suggestions for other topics or speakers!
+Most topics will be presented by one of the Research Data Stewards, but if needed guests will be invited for more specialized topics. Please contact us for suggestions for other topics or speakers!
 These short presentations are of course nothing more than starting points, in-depth support and training will be organised when needed.
 
 ### Contact and further materials
