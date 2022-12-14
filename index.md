@@ -1,12 +1,12 @@
-## EUR Data Coffee Breaks
-
-The EUR Data Coffee Breaks are short, focused, and informal presentations around Research Data Management (RDM). Each month is dedicated to a different RDM topic, and each topic is presented twice. EUR researchers can join either an online or hybrid session that takes place on Thursday or Monday, respectively. The presentations start with a 10–15-minute presentation, followed by 15 minutes for questions and discussion. These short presentations are of course nothing more than starting points, but we are happy to organize in-depth support and training when needed. The sessions are not recorded, however slides are published after the session.  
+The EUR Data Coffee Breaks are short, focused, and informal presentations around Research Data Management (RDM). Each month is dedicated to a different RDM topic, and each topic is presented twice. EUR researchers can join either an online or hybrid session that takes place on Thursday or Monday, respectively. The presentations start with a 10–15-minute presentation, followed by 15 minutes for questions and discussion. These short presentations are of course nothing more than starting points, but we are happy to organize in-depth support and training when needed. The sessions are not recorded, but slides will be published after the session.  
  
 ### What topics will be covered?
 
 Most themes are presented by the Research Data Stewards, but we welcome guests to present more specialized topics. Do you have suggestions for a topic or a speaker? Please get in touch via datasteward at eur.nl  
 
-## Coffee Break Schedule 2023
+In 2022, the Data Coffee Breaks were first organized at the Erasmus School of Social and Behavioural Sciences as [ESSB Data Coffee Breaks](https://my.eur.nl/en/essb-employee/research-support/research-data-management). For some of the topics covered see the presentations in the [EUR Research Data Stewardship community](https://zenodo.org/communities/eur_research_data_stewardship/) on Zenodo (in the schedule below you can find links to some of those presentations under **Materials**).  
+
+## Coffee Break Schedule 2023 (tentative)
 
 | Topic | Date | Materials |
 | --- | --- | --- |
@@ -21,7 +21,7 @@ Most themes are presented by the Research Data Stewards, but we welcome guests t
 | Privacy by design                                               | Thursday 9 Nov 15:00 <br /> Monday 20 Nov 11:30 |                     |
 | Sharing qualitative data                                        | Thursday 7 Dec 15:00 <br /> Monday 18 Dec 11:30 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7415003.svg)](https://doi.org/10.5281/zenodo.7415003)  |
 
-### Further readings
+### Further reading
 
 If you are interested in reading more about research data management, we have a few suggestions:  
 - More information about Research Data Management at Erasmus University Rotterdam can be found [here](https://www.eur.nl/en/research/research-services/research-data-management)  
