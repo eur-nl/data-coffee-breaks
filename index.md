@@ -10,17 +10,16 @@ Most themes are presented by the Research Data Stewards, but we welcome guests t
 
 | Topic | Date | Materials |
 | --- | --- | --- |
-| Best practices for documenting and organizing research projects | Thursday 19 January, 15:00 <br /> Monday 30 January 11:30| [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7414188.svg)](https://doi.org/10.5281/zenodo.7414188) |
-| Anonymization of qualitative data                               | Thursday 16 February 15:00 <br /> Monday 27 February 11:30 |                        |
-| Persistent identifiers                                          | Thursday 16 March 15:00 <br /> Monday 27 March 11:30       |                        |
-| Making understandable codebooks using SPSS and R                |                                                            |                      |
-| Licenses for research data                                      |                                                            |      |
-| Tool Demo: iRODS/Yoda                                           |                                                            |        |
-| Introduction to the FAIR principles / FAIR Aware tool           |                                                            |      |
-| Preparing your archival package                                 |                                                            |          |
-| Privacy by design                                               |                                                            |                         |
-| Sharing qualitative data                                        |                                                            |           |
-
+| Best practices for documenting and organizing research projects | Thursday 19 Jan 15:00 <br /> Monday 30 Jan 11:30 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7414188.svg)](https://doi.org/10.5281/zenodo.7414188) |
+| Anonymization of qualitative data                               | Thursday 16 Feb 15:00 <br /> Monday 27 Feb 11:30 |                        |
+| Persistent identifiers                                          | Thursday 16 March 15:00 <br /> Monday 27 March 11:30 |                        |
+| Making understandable codebooks using SPSS and R                | Thursday 13 April 15:00 <br /> Monday 22 April 11:30 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7414917.svg)](https://doi.org/10.5281/zenodo.7414917) |
+| Licenses for research data                                      | Thursday 11 May 15:00 <br /> Monday 22 May 11:30 |                      |
+| Tool Demo: iRODS/Yoda                                           | Thursday 8 June 15:00 <br /> Monday 19 June 11:30 |                       |
+| Introduction to the FAIR principles / [FAIR Aware tool](https://fair-aware.eur.nl/) | Thursday 14 Sept 15:00 <br /> Monday 20 Sept 11:30 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7414945.svg)](https://doi.org/10.5281/zenodo.7414945) |
+| Preparing your archival package                                 | Thursday 12 Oct 15:00 <br /> Monday 20 Oct 11:30 |                      |
+| Privacy by design                                               | Thursday 9 Nov 15:00 <br /> Monday 20 Nov 11:30 |                     |
+| Sharing qualitative data                                        | Thursday 7 Dec 15:00 <br /> Monday 18 Dec 11:30 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7415003.svg)](https://doi.org/10.5281/zenodo.7415003)  |
 
 ### Further readings
 
