@@ -10,7 +10,7 @@ In 2022, the Data Coffee Breaks were first organized at the Erasmus School of So
 
 ## Coffee Break Schedule 2023
 
-| Topic | Date &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Location | Materials |
+| Topic | Date | Location | Materials |
 | --- | --- | --- | --- |
 | Best practices for documenting and organizing research projects | Thurs 19 Jan 15:00 | Polak 2-14 & Online | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7414188.svg)](https://doi.org/10.5281/zenodo.7414188) |
 | | Mon 30 Jan 11:30 | Online |  |
