@@ -1,6 +1,6 @@
 # EUR Data Coffee Breaks
 
-The EUR Data Coffee Breaks are short, focused, and informal presentations around Research Data Management (RDM). Each month is dedicated to a different RDM topic, and each topic is presented twice. EUR researchers can join either an online or hybrid session that takes place on Monday or Thursday, respectively. The presentations start with a 10–15-minute presentation, followed by 15 minutes for questions and discussion. These short presentations are of course nothing more than starting points, but we are happy to organize in-depth support and training when needed. The sessions are not recorded, but slides will be published after the session.  
+The EUR Data Coffee Breaks are short, focused, and informal presentations around Research Data Management (RDM). Each month is dedicated to a different RDM topic, and each topic is presented twice. EUR researchers can join either an online or hybrid session (via [this Teams link](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODg5N2ZlNzMtNmY5Yi00NmEzLWJmZDktOTkwYTI2ZGRjZDA0%40thread.v2/0?context=%7b%22Tid%22%3a%22715902d6-f63e-4b8d-929b-4bb170bad492%22%2c%22Oid%22%3a%229fce85bf-ab82-4f9c-9912-c8da2849fab6%22%7d)) that takes place on Monday or Thursday, respectively. The presentations start with a 10–15-minute presentation, followed by 15 minutes for questions and discussion. These short presentations are of course nothing more than starting points, but we are happy to organize in-depth support and training when needed. The sessions are not recorded, but slides will be published after the session.  
  
 ### What topics will be covered?
 
@@ -12,18 +12,18 @@ In 2022, the Data Coffee Breaks were first organized at the Erasmus School of So
 
 | Topic | Date | Location | Materials |
 | --- | --- | --- | --- |
-| Best practices for documenting and organizing research projects | Thurs 19 Jan 15:00 | Polak 2-14 & Online | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7414188.svg)](https://doi.org/10.5281/zenodo.7414188) |
-| | Mon 30 Jan 11:30 | Online |  |
-| Anonymization of qualitative data | Thurs 16 Feb 15:00 | Sanders 1-12 & Online | |
-|  | Mon 27 Feb 11:30 | Online | |
-| Persistent identifiers | Thurs 16 March 15:00 | Polak 1-20 & Online  |  |
-|  | Mon 27 March 11:30 | Online |  |
-| Making understandable codebooks using SPSS and R | Thurs 13 April 15:00 | Polak 2-18 & Online | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7414917.svg)](https://doi.org/10.5281/zenodo.7414917) |
-| | Mon 24 April 11:30 | Online |  |
-| Licenses for research data | Thurs 11 May 15:00 | Mandeville T3-30 & Online  | |
-| | Mon 22 May 11:30 | Online | |
-| Tool Demo: iRODS/Yoda  | Thurs 8 June 15:00 | Polak 2-14 & Online |  |
-|  | Mon 19 June 11:30 | Online |  |
+| Best practices for documenting and organizing research projects | Thurs 19 Jan 15:00 | Polak 2-14 & [Online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODg5N2ZlNzMtNmY5Yi00NmEzLWJmZDktOTkwYTI2ZGRjZDA0%40thread.v2/0?context=%7b%22Tid%22%3a%22715902d6-f63e-4b8d-929b-4bb170bad492%22%2c%22Oid%22%3a%229fce85bf-ab82-4f9c-9912-c8da2849fab6%22%7d) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7414188.svg)](https://doi.org/10.5281/zenodo.7414188) |
+| | Mon 30 Jan 11:30 | [Online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODg5N2ZlNzMtNmY5Yi00NmEzLWJmZDktOTkwYTI2ZGRjZDA0%40thread.v2/0?context=%7b%22Tid%22%3a%22715902d6-f63e-4b8d-929b-4bb170bad492%22%2c%22Oid%22%3a%229fce85bf-ab82-4f9c-9912-c8da2849fab6%22%7d) |  |
+| Anonymization of qualitative data | Thurs 16 Feb 15:00 | Sanders 1-12 & [Online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODg5N2ZlNzMtNmY5Yi00NmEzLWJmZDktOTkwYTI2ZGRjZDA0%40thread.v2/0?context=%7b%22Tid%22%3a%22715902d6-f63e-4b8d-929b-4bb170bad492%22%2c%22Oid%22%3a%229fce85bf-ab82-4f9c-9912-c8da2849fab6%22%7d) | |
+|  | Mon 27 Feb 11:30 | [Online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODg5N2ZlNzMtNmY5Yi00NmEzLWJmZDktOTkwYTI2ZGRjZDA0%40thread.v2/0?context=%7b%22Tid%22%3a%22715902d6-f63e-4b8d-929b-4bb170bad492%22%2c%22Oid%22%3a%229fce85bf-ab82-4f9c-9912-c8da2849fab6%22%7d) | |
+| Persistent identifiers | Thurs 16 March 15:00 | Polak 1-20 & [Online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODg5N2ZlNzMtNmY5Yi00NmEzLWJmZDktOTkwYTI2ZGRjZDA0%40thread.v2/0?context=%7b%22Tid%22%3a%22715902d6-f63e-4b8d-929b-4bb170bad492%22%2c%22Oid%22%3a%229fce85bf-ab82-4f9c-9912-c8da2849fab6%22%7d) |  |
+|  | Mon 27 March 11:30 | [Online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODg5N2ZlNzMtNmY5Yi00NmEzLWJmZDktOTkwYTI2ZGRjZDA0%40thread.v2/0?context=%7b%22Tid%22%3a%22715902d6-f63e-4b8d-929b-4bb170bad492%22%2c%22Oid%22%3a%229fce85bf-ab82-4f9c-9912-c8da2849fab6%22%7d) |  |
+| Making understandable codebooks using SPSS and R | Thurs 13 April 15:00 | Polak 2-18 & [Online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODg5N2ZlNzMtNmY5Yi00NmEzLWJmZDktOTkwYTI2ZGRjZDA0%40thread.v2/0?context=%7b%22Tid%22%3a%22715902d6-f63e-4b8d-929b-4bb170bad492%22%2c%22Oid%22%3a%229fce85bf-ab82-4f9c-9912-c8da2849fab6%22%7d) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7414917.svg)](https://doi.org/10.5281/zenodo.7414917) |
+| | Mon 24 April 11:30 | [Online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODg5N2ZlNzMtNmY5Yi00NmEzLWJmZDktOTkwYTI2ZGRjZDA0%40thread.v2/0?context=%7b%22Tid%22%3a%22715902d6-f63e-4b8d-929b-4bb170bad492%22%2c%22Oid%22%3a%229fce85bf-ab82-4f9c-9912-c8da2849fab6%22%7d) |  |
+| Licenses for research data | Thurs 11 May 15:00 | Mandeville T3-30 & [Online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODg5N2ZlNzMtNmY5Yi00NmEzLWJmZDktOTkwYTI2ZGRjZDA0%40thread.v2/0?context=%7b%22Tid%22%3a%22715902d6-f63e-4b8d-929b-4bb170bad492%22%2c%22Oid%22%3a%229fce85bf-ab82-4f9c-9912-c8da2849fab6%22%7d)  | |
+| | Mon 22 May 11:30 | [Online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODg5N2ZlNzMtNmY5Yi00NmEzLWJmZDktOTkwYTI2ZGRjZDA0%40thread.v2/0?context=%7b%22Tid%22%3a%22715902d6-f63e-4b8d-929b-4bb170bad492%22%2c%22Oid%22%3a%229fce85bf-ab82-4f9c-9912-c8da2849fab6%22%7d) | |
+| Tool Demo: iRODS/Yoda  | Thurs 8 June 15:00 | Polak 2-14 & [Online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODg5N2ZlNzMtNmY5Yi00NmEzLWJmZDktOTkwYTI2ZGRjZDA0%40thread.v2/0?context=%7b%22Tid%22%3a%22715902d6-f63e-4b8d-929b-4bb170bad492%22%2c%22Oid%22%3a%229fce85bf-ab82-4f9c-9912-c8da2849fab6%22%7d) |  |
+|  | Mon 19 June 11:30 | [Online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODg5N2ZlNzMtNmY5Yi00NmEzLWJmZDktOTkwYTI2ZGRjZDA0%40thread.v2/0?context=%7b%22Tid%22%3a%22715902d6-f63e-4b8d-929b-4bb170bad492%22%2c%22Oid%22%3a%229fce85bf-ab82-4f9c-9912-c8da2849fab6%22%7d) |  |
 | Introduction to the FAIR principles / [FAIR Aware tool](https://fair-aware.eur.nl/) | Thurs 14 Sept 15:00 | TBA & Online | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7414945.svg)](https://doi.org/10.5281/zenodo.7414945) |
 |  | Mon 25 Sept 11:30 | Online |  |
 | Preparing your archival package | Thurs 12 Oct 15:00 | TBA & Online |  |
