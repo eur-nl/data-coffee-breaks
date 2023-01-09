@@ -10,28 +10,28 @@ In 2022, the Data Coffee Breaks were first organized at the Erasmus School of So
 
 ## Coffee Break Schedule 2023
 
-| Topic | Date | Location | Materials |
+| Topic | Date &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; | Location | Materials |
 | --- | --- | --- | --- |
-| Best practices for documenting and organizing research projects | Thursday 19 Jan 15:00 | Polak 2-14 & Online | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7414188.svg)](https://doi.org/10.5281/zenodo.7414188) |
-| | Monday 30 Jan 11:30 | Online |  |
-| Anonymization of qualitative data | Thursday 16 Feb 15:00 | Sanders 1-12 & Online | |
-|  | Monday 27 Feb 11:30 | Online | |
-| Persistent identifiers | Thursday 16 March 15:00 | Polak 1-20 & Online  |  |
-|  | Monday 27 March 11:30 | Online |  |
-| Making understandable codebooks using SPSS and R | Thursday 13 April 15:00 | Polak 2-18 & Online | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7414917.svg)](https://doi.org/10.5281/zenodo.7414917) |
-| | Monday 24 April 11:30 | Online |  |
-| Licenses for research data | Thursday 11 May 15:00 | Mandeville T3-30 & Online  | |
-| | Monday 22 May 11:30 | Online | |
-| Tool Demo: iRODS/Yoda  | Thursday 8 June 15:00 | Polak 2-14 & Online |  |
-|  | Monday 19 June 11:30 | Online |  |
-| Introduction to the FAIR principles / [FAIR Aware tool](https://fair-aware.eur.nl/) | Thursday 14 Sept 15:00 | TBA & Online | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7414945.svg)](https://doi.org/10.5281/zenodo.7414945) |
-|  | Monday 25 Sept 11:30 | Online |  |
-| Preparing your archival package | Thursday 12 Oct 15:00 | TBA & Online |  |
-|  | Monday 23 Oct 11:30 | Online |  |
-| Privacy by design | Thursday 9 Nov 15:00| TBA & Online |  |
-|  | Monday 20 Nov 11:30 | Online |                    |
-| Sharing qualitative data | Thursday 7 Dec 15:00 | TBA & Online | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7415003.svg)](https://doi.org/10.5281/zenodo.7415003)  |
-|  | Monday 18 Dec 11:30 | Online |   |
+| Best practices for documenting and organizing research projects | Thurs 19 Jan 15:00 | Polak 2-14 & Online | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7414188.svg)](https://doi.org/10.5281/zenodo.7414188) |
+| | Mon 30 Jan 11:30 | Online |  |
+| Anonymization of qualitative data | Thurs 16 Feb 15:00 | Sanders 1-12 & Online | |
+|  | Mon 27 Feb 11:30 | Online | |
+| Persistent identifiers | Thurs 16 March 15:00 | Polak 1-20 & Online  |  |
+|  | Mon 27 March 11:30 | Online |  |
+| Making understandable codebooks using SPSS and R | Thurs 13 April 15:00 | Polak 2-18 & Online | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7414917.svg)](https://doi.org/10.5281/zenodo.7414917) |
+| | Mon 24 April 11:30 | Online |  |
+| Licenses for research data | Thurs 11 May 15:00 | Mandeville T3-30 & Online  | |
+| | Mon 22 May 11:30 | Online | |
+| Tool Demo: iRODS/Yoda  | Thurs 8 June 15:00 | Polak 2-14 & Online |  |
+|  | Mon 19 June 11:30 | Online |  |
+| Introduction to the FAIR principles / [FAIR Aware tool](https://fair-aware.eur.nl/) | Thurs 14 Sept 15:00 | TBA & Online | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7414945.svg)](https://doi.org/10.5281/zenodo.7414945) |
+|  | Mon 25 Sept 11:30 | Online |  |
+| Preparing your archival package | Thurs 12 Oct 15:00 | TBA & Online |  |
+|  | Mon 23 Oct 11:30 | Online |  |
+| Privacy by design | Thurs 9 Nov 15:00| TBA & Online |  |
+|  | Mon 20 Nov 11:30 | Online |                    |
+| Sharing qualitative data | Thurs 7 Dec 15:00 | TBA & Online | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7415003.svg)](https://doi.org/10.5281/zenodo.7415003)  |
+|  | Mon 18 Dec 11:30 | Online |   |
 
 ### Further reading
 
