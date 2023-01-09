@@ -1,6 +1,6 @@
 # EUR Data Coffee Breaks
 
-The EUR Data Coffee Breaks are short, focused, and informal presentations around Research Data Management (RDM). Each month is dedicated to a different RDM topic, and each topic is presented twice. EUR researchers can join either an online or hybrid session that takes place on Thursday or Monday, respectively. The presentations start with a 10–15-minute presentation, followed by 15 minutes for questions and discussion. These short presentations are of course nothing more than starting points, but we are happy to organize in-depth support and training when needed. The sessions are not recorded, but slides will be published after the session.  
+The EUR Data Coffee Breaks are short, focused, and informal presentations around Research Data Management (RDM). Each month is dedicated to a different RDM topic, and each topic is presented twice. EUR researchers can join either an online or hybrid session that takes place on Monday or Thursday, respectively. The presentations start with a 10–15-minute presentation, followed by 15 minutes for questions and discussion. These short presentations are of course nothing more than starting points, but we are happy to organize in-depth support and training when needed. The sessions are not recorded, but slides will be published after the session.  
  
 ### What topics will be covered?
 
@@ -10,18 +10,18 @@ In 2022, the Data Coffee Breaks were first organized at the Erasmus School of So
 
 ## Coffee Break Schedule 2023 (tentative)
 
-| Topic | Date | Materials |
-| --- | --- | --- |
-| Best practices for documenting and organizing research projects | Thursday 19 Jan 15:00 <br /> Monday 30 Jan 11:30 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7414188.svg)](https://doi.org/10.5281/zenodo.7414188) |
-| Anonymization of qualitative data                               | Thursday 16 Feb 15:00 <br /> Monday 27 Feb 11:30 |                        |
-| Persistent identifiers                                          | Thursday 16 March 15:00 <br /> Monday 27 March 11:30 |                        |
-| Making understandable codebooks using SPSS and R                | Thursday 13 April 15:00 <br /> Monday 22 April 11:30 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7414917.svg)](https://doi.org/10.5281/zenodo.7414917) |
-| Licenses for research data                                      | Thursday 11 May 15:00 <br /> Monday 22 May 11:30 |                      |
-| Tool Demo: iRODS/Yoda                                           | Thursday 8 June 15:00 <br /> Monday 19 June 11:30 |                       |
-| Introduction to the FAIR principles / [FAIR Aware tool](https://fair-aware.eur.nl/) | Thursday 14 Sept 15:00 <br /> Monday 20 Sept 11:30 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7414945.svg)](https://doi.org/10.5281/zenodo.7414945) |
-| Preparing your archival package                                 | Thursday 12 Oct 15:00 <br /> Monday 20 Oct 11:30 |                      |
-| Privacy by design                                               | Thursday 9 Nov 15:00 <br /> Monday 20 Nov 11:30 |                     |
-| Sharing qualitative data                                        | Thursday 7 Dec 15:00 <br /> Monday 18 Dec 11:30 | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7415003.svg)](https://doi.org/10.5281/zenodo.7415003)  |
+| Topic | Date | Location | Materials |
+| --- | --- | --- | --- |
+| Best practices for documenting and organizing research projects | Thursday 19 Jan 15:00 <br /> Monday 30 Jan 11:30 | Polak 2-14 & Online <br /> Online | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7414188.svg)](https://doi.org/10.5281/zenodo.7414188) |
+| Anonymization of qualitative data                               | Thursday 16 Feb 15:00 <br /> Monday 27 Feb 11:30 | Sanders 1-12 & Online <br /> Online |                        |
+| Persistent identifiers                                          | Thursday 16 March 15:00 <br /> Monday 27 March 11:30 | Polak 1-20 & Online <br /> Online |                       |
+| Making understandable codebooks using SPSS and R                | Thursday 13 April 15:00 <br /> Monday 24 April 11:30 | Polak 2-18 & Online <br /> Online | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7414917.svg)](https://doi.org/10.5281/zenodo.7414917) |
+| Licenses for research data                                      | Thursday 11 May 15:00 <br /> Monday 22 May 11:30 | Mandeville T3-30 & Online <br /> Online |                     |
+| Tool Demo: iRODS/Yoda                                           | Thursday 8 June 15:00 <br /> Monday 19 June 11:30 | Polak 2-14 & Online <br /> Online |                        |
+| Introduction to the FAIR principles / [FAIR Aware tool](https://fair-aware.eur.nl/) | Thursday 14 Sept 15:00 <br /> Monday 25 Sept 11:30 | TBA & Online <br /> Online | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7414945.svg)](https://doi.org/10.5281/zenodo.7414945) |
+| Preparing your archival package                                 | Thursday 12 Oct 15:00 <br /> Monday 23 Oct 11:30 | TBA & Online <br /> Online |                      |
+| Privacy by design                                               | Thursday 9 Nov 15:00 <br /> Monday 20 Nov 11:30 | TBA & Online <br /> Online |                    |
+| Sharing qualitative data                                        | Thursday 7 Dec 15:00 <br /> Monday 18 Dec 11:30 | TBA & Online <br /> Online | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7415003.svg)](https://doi.org/10.5281/zenodo.7415003)  |
 
 ### Further reading
 
