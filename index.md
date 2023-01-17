@@ -8,6 +8,9 @@ Most themes are presented by the Research Data Stewards, but we welcome guests t
 
 In 2022, the Data Coffee Breaks were first organized at the Erasmus School of Social and Behavioural Sciences as [ESSB Data Coffee Breaks](https://my.eur.nl/en/essb-employee/research-support/research-data-management). For some of the topics covered see the presentations in the [EUR Research Data Stewardship community](https://zenodo.org/communities/eur_research_data_stewardship/) on Zenodo (in the schedule below you can find links to some of those presentations under **Materials**).  
 
+### Join the mailing list to receive updates
+Use [this form](https://forms.office.com/e/k3Ga56ULGR) to share your email address with us to receive updates and calendar invites for the EUR Data Coffee Breaks.
+
 ## Coffee Break Schedule 2023
 
 | Topic | Date | Location | Materials |
