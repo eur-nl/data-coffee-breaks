@@ -27,14 +27,14 @@ Go to [this page](https://sympa.eur.nl/sympa/info/data-coffee-breaks) to subscri
 | | Mon 22 May 11:30 | [Online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODg5N2ZlNzMtNmY5Yi00NmEzLWJmZDktOTkwYTI2ZGRjZDA0%40thread.v2/0?context=%7b%22Tid%22%3a%22715902d6-f63e-4b8d-929b-4bb170bad492%22%2c%22Oid%22%3a%229fce85bf-ab82-4f9c-9912-c8da2849fab6%22%7d) | |
 | Tool Demo: iRODS/Yoda  | Thurs 8 June 15:00 | Polak 2-14 & [Online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODg5N2ZlNzMtNmY5Yi00NmEzLWJmZDktOTkwYTI2ZGRjZDA0%40thread.v2/0?context=%7b%22Tid%22%3a%22715902d6-f63e-4b8d-929b-4bb170bad492%22%2c%22Oid%22%3a%229fce85bf-ab82-4f9c-9912-c8da2849fab6%22%7d) |  |
 |  | Mon 19 June 11:30 | [Online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODg5N2ZlNzMtNmY5Yi00NmEzLWJmZDktOTkwYTI2ZGRjZDA0%40thread.v2/0?context=%7b%22Tid%22%3a%22715902d6-f63e-4b8d-929b-4bb170bad492%22%2c%22Oid%22%3a%229fce85bf-ab82-4f9c-9912-c8da2849fab6%22%7d) |  |
-| Introduction to the FAIR principles / [FAIR Aware tool](https://fair-aware.eur.nl/) | Thurs 14 Sept 15:00 | TBA & Online | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7414945.svg)](https://doi.org/10.5281/zenodo.7414945) |
-|  | Mon 25 Sept 11:30 | Online |  |
-| Preparing your archival package | Thurs 12 Oct 15:00 | TBA & Online |  |
-|  | Mon 23 Oct 11:30 | Online |  |
-| Privacy by design | Thurs 9 Nov 15:00| TBA & Online |  |
-|  | Mon 20 Nov 11:30 | Online |                    |
-| Sharing qualitative data | Thurs 7 Dec 15:00 | TBA & Online | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7415003.svg)](https://doi.org/10.5281/zenodo.7415003)  |
-|  | Mon 18 Dec 11:30 | Online |   |
+| Introduction to the FAIR principles / [FAIR Aware tool](https://fair-aware.eur.nl/) | Thurs 14 Sept 15:00 | Library BT-11c & [Online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODg5N2ZlNzMtNmY5Yi00NmEzLWJmZDktOTkwYTI2ZGRjZDA0%40thread.v2/0?context=%7b%22Tid%22%3a%22715902d6-f63e-4b8d-929b-4bb170bad492%22%2c%22Oid%22%3a%229fce85bf-ab82-4f9c-9912-c8da2849fab6%22%7d) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7414945.svg)](https://doi.org/10.5281/zenodo.7414945) |
+|  | Mon 25 Sept 11:30 | [Online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODg5N2ZlNzMtNmY5Yi00NmEzLWJmZDktOTkwYTI2ZGRjZDA0%40thread.v2/0?context=%7b%22Tid%22%3a%22715902d6-f63e-4b8d-929b-4bb170bad492%22%2c%22Oid%22%3a%229fce85bf-ab82-4f9c-9912-c8da2849fab6%22%7d) |  |
+| Preparing your archival package | Thurs 12 Oct 15:00 | Library BT-11c  & [Online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODg5N2ZlNzMtNmY5Yi00NmEzLWJmZDktOTkwYTI2ZGRjZDA0%40thread.v2/0?context=%7b%22Tid%22%3a%22715902d6-f63e-4b8d-929b-4bb170bad492%22%2c%22Oid%22%3a%229fce85bf-ab82-4f9c-9912-c8da2849fab6%22%7d) |  |
+|  | Mon 23 Oct 11:30 | [Online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODg5N2ZlNzMtNmY5Yi00NmEzLWJmZDktOTkwYTI2ZGRjZDA0%40thread.v2/0?context=%7b%22Tid%22%3a%22715902d6-f63e-4b8d-929b-4bb170bad492%22%2c%22Oid%22%3a%229fce85bf-ab82-4f9c-9912-c8da2849fab6%22%7d) |  |
+| Privacy by design | Thurs 9 Nov 15:00| Library BT-11c  & [Online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODg5N2ZlNzMtNmY5Yi00NmEzLWJmZDktOTkwYTI2ZGRjZDA0%40thread.v2/0?context=%7b%22Tid%22%3a%22715902d6-f63e-4b8d-929b-4bb170bad492%22%2c%22Oid%22%3a%229fce85bf-ab82-4f9c-9912-c8da2849fab6%22%7d) |  |
+|  | Mon 20 Nov 11:30 | [Online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODg5N2ZlNzMtNmY5Yi00NmEzLWJmZDktOTkwYTI2ZGRjZDA0%40thread.v2/0?context=%7b%22Tid%22%3a%22715902d6-f63e-4b8d-929b-4bb170bad492%22%2c%22Oid%22%3a%229fce85bf-ab82-4f9c-9912-c8da2849fab6%22%7d) |                    |
+| Sharing qualitative data | Thurs 7 Dec 15:00 | Library BT-11c  & [Online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODg5N2ZlNzMtNmY5Yi00NmEzLWJmZDktOTkwYTI2ZGRjZDA0%40thread.v2/0?context=%7b%22Tid%22%3a%22715902d6-f63e-4b8d-929b-4bb170bad492%22%2c%22Oid%22%3a%229fce85bf-ab82-4f9c-9912-c8da2849fab6%22%7d) | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7415003.svg)](https://doi.org/10.5281/zenodo.7415003)  |
+|  | Mon 18 Dec 11:30 | [Online](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODg5N2ZlNzMtNmY5Yi00NmEzLWJmZDktOTkwYTI2ZGRjZDA0%40thread.v2/0?context=%7b%22Tid%22%3a%22715902d6-f63e-4b8d-929b-4bb170bad492%22%2c%22Oid%22%3a%229fce85bf-ab82-4f9c-9912-c8da2849fab6%22%7d) |   |
 
 ### Further reading
 
