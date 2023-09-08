@@ -11,7 +11,7 @@ In 2022, the Data Coffee Breaks were first organized at the Erasmus School of So
 ### Join the mailing list to receive updates
 Go to [this page](https://sympa.eur.nl/sympa/info/data-coffee-breaks) to subscribe to the mailing list to receive updates and calendar invites for the EUR Data Coffee Breaks (note that you need to connect to the EUR network, for example using eduVPN, to access the mailing list page).
 
-## Coffee Break Schedule 2023-204
+## Coffee Break Schedule 2023-2024
 
 | Topic | Date | Location | Materials |
 | --- | --- | --- | --- |
